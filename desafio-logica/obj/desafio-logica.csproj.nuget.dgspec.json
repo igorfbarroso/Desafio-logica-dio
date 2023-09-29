@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj": {}
+    "d:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj": {}
   },
   "projects": {
-    "D:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj": {
+    "d:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj",
+        "projectUniqueName": "d:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj",
         "projectName": "desafio-logica",
-        "projectPath": "D:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj",
+        "projectPath": "d:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\desafio-logica.csproj",
         "packagesPath": "C:\\Users\\igorf\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\obj\\",
+        "outputPath": "d:\\CURSO DE LÓGICA\\Desafio-logica\\desafio-logica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
